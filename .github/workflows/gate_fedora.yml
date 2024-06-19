@@ -25,6 +25,7 @@ jobs:
             -   name: Build
                 run: |-
                     ./build_product -j2 \
+                        al2023 \
                         alinux2 \
                         alinux3 \
                         anolis23 \

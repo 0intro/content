@@ -157,6 +157,7 @@ jobs:
       -   name: Build
           run: |-
             ./build_product \
+                al2023 \
                 alinux2 \
                 alinux3 \
                 anolis23 \
