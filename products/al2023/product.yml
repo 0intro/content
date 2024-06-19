@@ -2,8 +2,7 @@ product: al2023
 full_name: Amazon Linux 2023
 type: platform
 
-benchmark_id: AMAZON
-
+benchmark_id: AL-2023
 benchmark_root: "../../linux_os/guide"
 #benchmark_root: "../../products/al2023/guide" - This was previously done to include required legal notice but breaks the build in 0.1.66. This prevents contributing upstream currently.
 #additional_content_directories:
